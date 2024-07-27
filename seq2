@@ -9,7 +9,7 @@ autonumber
 
 ==Создание Единорго профиля==
 
-kace->kc ++: POST client-service/byNumberAtRegistrationId/get
+kace->kc ++: POST client-service/clients
 note right
 {
 "name": "Наталья",
